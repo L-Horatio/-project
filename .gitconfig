@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = L-Horatio
+	email = 483583753@qq.com
+[winUpdater]
+	recentlySeenVersion = 2.28.0.windows.1

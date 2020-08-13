@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 13 21:06:14 CST 2020
+hystrix-core-1.5.12.pom>spring-milestones=
+hystrix-core-1.5.12.jar>central=
+hystrix-core-1.5.12.pom>central=
+hystrix-core-1.5.12.jar>spring-milestones=

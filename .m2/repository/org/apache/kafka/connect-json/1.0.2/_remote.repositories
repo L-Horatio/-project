@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 13 21:06:14 CST 2020
+connect-json-1.0.2.pom>spring-milestones=
+connect-json-1.0.2.pom>central=
+connect-json-1.0.2.jar>central=
+connect-json-1.0.2.jar>spring-milestones=

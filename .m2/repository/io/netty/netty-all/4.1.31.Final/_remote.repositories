@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 13 19:50:06 CST 2020
+netty-all-4.1.31.Final.jar>spring-milestones=
+netty-all-4.1.31.Final.pom>spring-milestones=

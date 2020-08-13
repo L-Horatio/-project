@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 13 19:52:39 CST 2020
+log4j-1.2.16.pom>central=
+log4j-1.2.16.jar>central=
+log4j-1.2.16.pom>spring-milestones=
+log4j-1.2.16.jar>spring-milestones=
